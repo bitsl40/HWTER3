@@ -10,7 +10,7 @@
 
 ### Ответ
 Cкриншот входящих правил «Группы безопасности» в ЛК Yandex Cloud:
-![Изображение]((https://github.com/bitsl40/HWTER3/blob/main/secgroup.png)
+![Изображение](https://github.com/bitsl40/HWTER3/blob/main/secgroup.png)
 
 ------
 
