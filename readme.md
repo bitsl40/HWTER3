@@ -1,5 +1,5 @@
 # Домашнее задание к занятию «Управляющие конструкции в коде Terraform»
-[Сcылка на репазиторий с заданием  ]([https://github.com/bitsl40/HWTER2/tree/main/src](https://github.com/bitsl40/HWTER3/tree/main/src))
+[Сcылка на репазиторий с заданием  ](https://github.com/bitsl40/HWTER3/tree/main/src))
 В репазитории не добавлен personal.auto.tfvars, содержит токены доступа к облаку
 
 ### Задание 1 
@@ -10,7 +10,7 @@
 
 ### Ответ
 Cкриншот входящих правил «Группы безопасности» в ЛК Yandex Cloud:
-![Изображение]([https://github.com/bitsl40/HWTER2/blob/main/curl.png)](https://github.com/bitsl40/HWTER3/blob/main/secgroup.png)
+![Изображение]((https://github.com/bitsl40/HWTER3/blob/main/secgroup.png)
 
 ------
 
